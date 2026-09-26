@@ -49,7 +49,7 @@ python -m streamlit run app.py
 
 ## 🌐 Live Demo
 
-[Add your Streamlit Cloud link here once deployed]
+[[Add your Streamlit Cloud link here once deployed](https://student-performance-predictor-78xq6fhau5wnr8pdmfn8hc.streamlit.app/)]
 
 ## 📌 Dataset
 

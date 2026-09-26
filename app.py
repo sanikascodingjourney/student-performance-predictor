@@ -6,7 +6,7 @@ import pandas as pd
 with open('student_model.pkl', 'rb') as file:
     model = pickle.load(file)
 
-st.title("🎓 Student Exam Score Predictor")
+st.title("Student Exam Score Predictor")
 st.write("Enter student details to predict the exam score")
 
 # Numeric inputs
